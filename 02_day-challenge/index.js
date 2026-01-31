@@ -6,7 +6,6 @@
 // }
 // console.log(findMaxNum(4, 4, 2));
 
-
 //* 2.Check if a Number is Positive, Negative, or Zero
 // function isNum_Pos_Neg_Zero(n) {
 //   if (n > 0) return "positive";
@@ -14,7 +13,6 @@
 //   return "zero";
 // }
 // console.log(isNum_Pos_Neg_Zero(-6));
-
 
 //* 3.Calculate Electricity Bill (solution 1)
 // function calculate_electricity_bill(u) {
@@ -59,7 +57,6 @@
 //   return sum;
 // }
 // console.log(calculate_electricity_bill(100));
-
 
 //* 3.Calculate Electricity Bil (solution 2)
 // function calElecBill(units) {
